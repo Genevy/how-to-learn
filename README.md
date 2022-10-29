@@ -1,6 +1,4 @@
-<a htef="https://genevy.github.io/how-to-learn/" target="_blank">
-  <img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%">
-</a>
+<img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%">
 
 # Научиться учиться
 > *«чтобы достичь мастерства, необходимо свободно разбираться в основах»*
