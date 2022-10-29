@@ -1,4 +1,5 @@
-<img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%">(https://genevy.github.io/how-to-learn/)
+<img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%">
+[Проектная работа на GitHub Pages](https://genevy.github.io/how-to-learn/)
 
 # Научиться учиться
 
@@ -10,7 +11,6 @@
 Одностраничный сайт создан с использованием HTML и CSS.
 Реализован по правилам flexbox с использованием CSS анимация. Файловая структура организована по файловой структуре БЭМ (Nested).
 
-[Проектная работа на GitHub Pages](https://genevy.github.io/how-to-learn/)
 #### Технологии:
   * HTML 5
   * CSS 3
@@ -26,10 +26,10 @@
 * Адаптивная верстка сайта
 * Создание формы обратной связи
 ## Брифы:
-* [Бриф №1](https://drive.google.com/file/d/) (Flexbox, Positioning Elements, advanced HTML and CSS)
-* [Бриф №2](https://drive.google.com/file/d/) (Animation and Transform using CSS, Nested БЭМ, iframe)
+* [Бриф №1](https://drive.google.com/file/d/1bLTd1YbnboVinmDtW70jGoDw16ahJRo5) (Flexbox, Positioning Elements, advanced HTML and CSS)
+* [Бриф №2](https://drive.google.com/file/d/15ywRNjLYDy_hbOYd8W6Clp-nRKtfUyoL) (Animation and Transform using CSS, Nested БЭМ, iframe)
 ## Чеклисты:
 * [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
 * [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
 ##
-© [EVGENY STRIGANOV](https://github.com/genevy)
+© Сopyright [EVGENY STRIGANOV](https://github.com/genevy)
