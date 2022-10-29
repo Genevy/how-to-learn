@@ -1,4 +1,4 @@
-<img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%">
+<img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%">(https://genevy.github.io/how-to-learn/)
 
 # Научиться учиться
 
@@ -31,6 +31,5 @@
 ## Чеклисты:
 * [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
 * [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
-Добавление функционала адаптивности с использованием СSS 3 медиазапросов для удобного использования на различных мобильных устройсвах.
 ##
-© 2022 EVGENY STRIGANOV
+© [EVGENY STRIGANOV](https://github.com/genevy)
