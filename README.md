@@ -1,6 +1,6 @@
 <img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%">
 
-##
+####
 
 [Проектная работа на GitHub Pages](https://genevy.github.io/how-to-learn/)
 
