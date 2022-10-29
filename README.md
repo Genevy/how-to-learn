@@ -9,6 +9,8 @@
 
 Одностраничный сайт создан с использованием HTML и CSS.
 Реализован по правилам flexbox с использованием CSS анимация. Файловая структура организована по файловой структуре БЭМ (Nested).
+
+[Проектная работа на GitHub Pages](https://genevy.github.io/how-to-learn/)
 #### Технологии:
   * HTML 5
   * CSS 3
@@ -20,6 +22,15 @@
   * Позиционирование
   * Семантическая разметка
 ### Дорожная карта проекта
+* Сборка проекта посредством Webpack
+* Адаптивная верстка сайта
+* Создание формы обратной связи
+## Брифы:
+* [Бриф №1](https://drive.google.com/file/d/) (Flexbox, Positioning Elements, advanced HTML and CSS)
+* [Бриф №2](https://drive.google.com/file/d/) (Animation and Transform using CSS, Nested БЭМ, iframe)
+## Чеклисты:
+* [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
+* [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
 Добавление функционала адаптивности с использованием СSS 3 медиазапросов для удобного использования на различных мобильных устройсвах.
 ##
 © 2022 EVGENY STRIGANOV
