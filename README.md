@@ -32,7 +32,6 @@
   * [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
 #### Разработчик
 
- <p align=" " href="https://github.com/genevy">
-   <span>Author: </span>
-   <a href="#">EVGENY STRIGANOV</a>
+ <p align="right">
+   <a href="https://github.com/genevy" target="_blank">EVGENY STRIGANOV</a>
  </p>
