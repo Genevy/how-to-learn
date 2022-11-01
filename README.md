@@ -1,6 +1,6 @@
-## 🔎 Педварительный просмотр
-
 <a href="#" target="_blank"><img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%"></a>
+
+## 🔎 Педварительный просмотр
 
 # Научиться учиться
 > *«чтобы достичь мастерства, необходимо свободно разбираться в основах»*
@@ -30,5 +30,5 @@
 ## Чеклисты:
 * [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
 * [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
-##
-© Сopyright • [EVGENY STRIGANOV](https://github.com/genevy)
+## 
+Автор:  [EVGENY STRIGANOV](https://github.com/genevy)
