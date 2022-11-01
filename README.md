@@ -2,6 +2,13 @@
 > *«чтобы достичь мастерства, необходимо свободно разбираться в основах»*
 
 <a href="https://genevy.github.io/how-to-learn/" target="_blank"><img src="/how-to-learn.gif" alt="Иллюстрация к проекту Научиться учиться" width="100%"></a>
+
+<h2 align="center">
+  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+</h2>
+
+
+
 #### 🔎 Превью
 Пректная работа на [GitHub Pages](https://genevy.github.io/how-to-learn/)
 ## Описание
