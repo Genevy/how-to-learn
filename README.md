@@ -18,7 +18,7 @@
   * БЭМ (Nested)
   * Позиционирование
   * Семантическая разметка
-#### Дорожная карта проекта
+#### Дорожная карта проекта:
   * Сборка проекта посредством Webpack
   * Адаптивная верстка сайта
   * Создание формы обратной связи
@@ -30,5 +30,6 @@
   * [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
 ## 
  <p align="right" href="https://github.com/genevy">
-   EVGENY STRIGANOV
+   <span>Автор: </span>
+   <a href="#">EVGENY STRIGANOV</a>
  </p>
