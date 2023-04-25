@@ -23,13 +23,6 @@
 #### Дорожная карта
   * Сборка проекта посредством Webpack
   * Адаптивная верстка сайта
-  * Создание формы обратной связи
-#### Брифы
-  * [Бриф №1](https://drive.google.com/file/d/1bLTd1YbnboVinmDtW70jGoDw16ahJRo5) (Flexbox, Positioning Elements, advanced HTML and CSS)
-  * [Бриф №2](https://drive.google.com/file/d/15ywRNjLYDy_hbOYd8W6Clp-nRKtfUyoL) (Animation and Transform using CSS, Nested БЭМ, iframe)
-#### Чеклисты
-  * [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
-  * [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
 ##
 ####
 © Developed by [Evgeny Striganov](https://github.com/genevy) jointly [Yandex Praktikum](https://practicum.yandex.ru/web/)
